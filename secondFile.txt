@@ -1,3 +1,5 @@
 This is the initial contents
 UserB adds text to second line of the second file that comprises
 our most excellent project.
+UserA adds text to second lineof the second file that comprises
+our most excellent project.
